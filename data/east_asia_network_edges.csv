@@ -1,0 +1,5 @@
+source,target,relation,weight
+PARKYONG,EXAM,passed,1
+YI,EXAM,passed,1
+PARKYONG,HANSEONG,office,1
+YI,HANSEONG,office,1
